@@ -4,11 +4,6 @@
 The famous 2048 game made in react, with a personal touch and animations
 
 
-## Demo
-
-
-
-
 ## Step-Step Guide
 
 ### 1. Set Up Your React Environment:
